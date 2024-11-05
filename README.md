@@ -6,3 +6,4 @@
 <h4>Category and Tag Filtering: Filter posts by categories and tags for better content discoverability.</h4>
 <h4>Search Functionality: Quickly find posts by keywords or titles.</h4>
 <h3>📷 Screenshots</h3>
+<img src="Screenshot 2024-11-05 093111.png" alt="Img" />
